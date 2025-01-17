@@ -1,3 +1,11 @@
-<svg viewBox="0 0 130 40" xmlns="http://www.w3.org/2000/svg">
-  <text y="30" font-family="Motiva Sans Bold, sans-serif" fill="#18216d" font-size="43px" font-weight="700">Landy</text>
+<svg viewBox="0 0 3000 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Add the image -->
+  <image 
+    xlink:href="../../../src/Assets/Asthetic.jpg" 
+    x="0" 
+    y="0" 
+    width="3000" 
+    height="600" 
+    alt="Logo" 
+  />
 </svg>
