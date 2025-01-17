@@ -1,12 +1,13 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Aesthetic Prosculpt",
+  "text": "At Aesthetic Prosculpt, we understand that achieving the perfect body shape is not just about appearance—it’s about feeling confident, healthy, and strong. With modern lifestyles leaving little time for rigorous fitness routines, our innovative machines offer a smarter, more efficient way to shape your body and achieve your fitness goals.",
   "button": [
     {
       "title": "Explore"
     },
     {
-      "title": "Learn more",
+      "title": "Learn More",
+      "backgroundColor": "green",
       "color": "#fff"
     }
   ]
